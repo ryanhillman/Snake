@@ -36,4 +36,5 @@ This project strengthened my understanding of:
 - Object-oriented design principles (modular classes for UI, game state, and logic).  
 
 ## 🎨 Screenshot
-![Snake Game Screenshot](Snake%20Screenshot.png)
+![Snake Game Screenshot](screenshot.png)
+
