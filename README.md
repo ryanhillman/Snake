@@ -5,8 +5,10 @@ This project is a modern implementation of the classic **Snake** game, built in 
 ## 🎮 Features
 - Responsive gameplay with keyboard controls (arrow keys).  
 - Real-time snake movement and growth when consuming food.  
-- Score tracking with game-over detection on self-collision or boundary collision.  
+- Screen wrapping: snake seamlessly moves across edges and reappears on the opposite side.  
+- Game-over detection when the snake collides with itself.  
 - Clean, modular codebase with separate classes for UI, game loop, and logic.  
+  
 
 ## ⚙️ Technologies Used
 - **Java (JDK 21+)**  
