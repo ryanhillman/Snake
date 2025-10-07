@@ -71,7 +71,7 @@ public class ThreadsController extends Thread {
 	 
 	 //Stops The Game
 	 private void stopTheGame(){
-		 System.out.println("COLISION! \n");
+		 System.out.println("COLLISION! \n");
 		 while(true){
 			 pauser();
 		 }
