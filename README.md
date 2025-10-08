@@ -1,6 +1,9 @@
 # 🐍 Snake Game (Java)
 
-This project is a modern implementation of the classic **Snake** game, built in **Java** as a portfolio piece to demonstrate object-oriented programming, event handling, and real-time game logic.  
+This project is a modern implementation of the classic **Snake** game, built in **Java** as a portfolio piece to demonstrate object-oriented programming, event handling, and real-time game logic. 
+
+## 📷 Screenshot
+![Snake Game Screenshot](screenshot.png)
 
 ## 🎮 Features
 - Responsive gameplay with keyboard controls (arrow keys).  
@@ -36,7 +39,4 @@ This project strengthened my understanding of:
 - Real-time game loops and thread synchronization in Java.  
 - Event-driven programming with keyboard input listeners.  
 - Object-oriented design principles (modular classes for UI, game state, and logic).  
-
-## 🎨 Screenshot
-![Snake Game Screenshot](screenshot.png)
 
